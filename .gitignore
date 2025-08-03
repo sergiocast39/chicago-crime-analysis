@@ -1,0 +1,5 @@
+# Data & output files
+data/*.csv
+data/*.json
+data/*.zip
+
