@@ -55,7 +55,9 @@ Year-over-year trends indicate a decrease in overall reported crime after 2016.
 
 
 About the Author
+
 Sergio Castaneda
+
 Data Enthusiast | Python & Tableau
 
 
