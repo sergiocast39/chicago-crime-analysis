@@ -5,15 +5,15 @@ This project fetches, cleans, and analyzes public crime data from the [City of C
 
 📁 Project Structure
 
-chicago-crime-analysis/
-├── data/ # Exported analysis results (CSV files)
-├── src/ # Core Python code
-│ ├── fetch.py # Fetches data from the API
-│ ├── processing.py # Data processing and exports
-│ └── main.py # Project entry point
-├── .gitignore
-├── README.md
-├── requirements.txt
+- `data/` — exported CSV files  
+- `notebooks/` — (optional) Jupyter notebooks  
+- `src/`  
+  - `fetch.py`  
+  - `processing.py`  
+  - `main.py`  
+- `.gitignore`  
+- `README.md`  
+- `requirements.txt`
 
 📌 Key Features
 📅 Temporal Analysis: Monthly and yearly crime counts.
