@@ -29,12 +29,12 @@ Check out the interactive Tableau dashboard here:
 
 🔗 https://public.tableau.com/app/profile/sergio.castaneda/viz/Analysis_Chicago_Crimes/Analysis_Chicago
 
-Data Source
+**Data Source**
 This project uses open data from the City of Chicago:
 
 Chicago Crime API (Socrata)
 
-Data includes:
+**Data includes:**
 
 Date and time of reported crimes
 
@@ -45,21 +45,14 @@ Arrests and domestic involvement
 Location descriptions (e.g., street, alley, apartment)
 
 
-Example Insights
+**Example Insights**
+
 Seasonal trends: Crime rates peak during summer months.
 
 Theft is the most common crime, followed by battery and criminal damage.
 
 Year-over-year trends indicate a decrease in overall reported crime after 2016.
 
-Future Improvements
-Add geospatial analysis using Folium or Plotly.
-
-Integrate with Streamlit for an interactive Python dashboard.
-
-Automate data updates via API.
-
-Implement predictive modeling to forecast crime trends.
 
 About the Author
 Sergio Castaneda
