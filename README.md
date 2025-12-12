@@ -3,7 +3,7 @@ Chicago Crime Data Analysis (2010–2019)
 
 This project fetches, cleans, and analyzes public crime data from the [City of Chicago's data portal](https://data.cityofchicago.org/), focusing on the years 2010 through 2019. The analysis outputs structured CSV files summarizing crime by various dimensions like year, time of day, ward, and FBI classification.
 
-📁 Project Structure
+Project Structure
 
 - `data/` — exported CSV files  
 - `notebooks/` — (optional) Jupyter notebooks  
@@ -15,16 +15,16 @@ This project fetches, cleans, and analyzes public crime data from the [City of C
 - `README.md`  
 - `requirements.txt`
 
-📌 Key Features
-📅 Temporal Analysis: Monthly and yearly crime counts.
+Key Features
+Temporal Analysis: Monthly and yearly crime counts.
 
-🕵️ Crime Type Distribution: Trends in theft, assault, burglary, and other categories.
+Crime Type Distribution: Trends in theft, assault, burglary, and other categories.
 
-📍 Geographic Insights (Tableau only): Visual breakdowns by location.
+Geographic Insights (Tableau only): Visual breakdowns by location.
 
-📈 Data Aggregation: Grouped statistics for trend analysis using pandas.
+Data Aggregation: Grouped statistics for trend analysis using pandas.
 
-📊 Tableau Dashboard
+Tableau Dashboard
 Check out the interactive Tableau dashboard here:
 
 🔗 https://public.tableau.com/app/profile/sergio.castaneda/viz/Analysis_Chicago_Crimes/Analysis_Chicago
